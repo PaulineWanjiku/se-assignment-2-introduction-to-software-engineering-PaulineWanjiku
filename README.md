@@ -33,8 +33,6 @@ This involves  the gathering and documentation of user needs and system requirem
 Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-
-Testing in Software Engineering:
 Modularity in software design is the process of breaking down a software system into smaller, self-contained parts or modules. Each module encompasses a single or a group of related functionalities and can be developed, tested, and maintained independently of the others. This method is analogous to breaking down a large task into manageable subtasks, each with a clearly defined function and interface.
 Change Isolation: Changes to one module can be done without affecting the others. This isolation lowers the likelihood of introducing faults in unrelated portions of the system.
 Easier Debugging: When an issue emerges, it can be tracked down and resolved inside a specific module, making the debugging process more efficient.
@@ -45,7 +43,7 @@ Independent Development: Multiple teams can work on separate modules at the same
 Re-use of Modules: Modules designed with general-purpose functionalities can be reused across different projects or parts of the same project, reducing redundancy and effort.
 Flexible Integration: New features or updates can be added by creating new modules or updating existing ones without rewriting the entire system.
 
-
+Testing in Software Engineering:
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 (a)Unit testing:Testing individual components or modules of software eg functions and methods.
 (b)Intergration:Testing interactions between different components or subsystems of software to ensure they work together.
@@ -53,7 +51,6 @@ Describe the different levels of software testing (unit testing, integration tes
 (d)Acceptance:Testing aganist user requirements to ensure it meets user needs.
 Testing helps to identify and fix defects early in the develpment process,leading to higher-quality end results.It also helps prevent future costly failures. 
 Version Control Systems:
-
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 These are software tools for tracking changes to source code and coordinating work among team members.eg(a) Git where each user has a local repository, supports lightweight branching and merging.
 (b)Subversion that has a centralized repository that all users commit to,can track changes to directories
@@ -98,5 +95,5 @@ Transparency and Honesty:Clearly and honestly informing stakeholders about the s
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
 Provide real-world examples or case studies wherever possible.
-Cite any references or sources you use in your answers.
+Cite any references or sources you use in your answers. Class notes, Research on the internet
 Submit your completed assignment by [due date].
